@@ -13,7 +13,9 @@
       >
         {post.title}
       </a>
-      <div class="text-sm text-gray-500">{post.date}</div>
+      <div class="text-sm text-gray-500">
+        {new Date(post.date).toISOString().split('T')[0]}
+      </div>
     </li>
   {/each}
 </ul>
