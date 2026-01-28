@@ -1,0 +1,259 @@
+{
+    "basics": {
+        "name": "Mathieu Gemard",
+        "label": "Senior Software Engineer",
+        "image": "",
+        "email": "mathieu.gemard@gmail.com",
+        "phone": "0630152497",
+        "url": "https://mgemard.github.io",
+        "summary": "I am a senior software engineer currently working on Big Data. I have extensive experience in backend development using Java as well as web development with JavaScript frameworks such as angular and React. Additionally, I possess solid skills in cloud computing, particularly with AWS services. I am enthusiastic about learning new technologies and continuously enhancing my skill set.",
+        "location": {
+            "address": "7 rue de la Mortallière",
+            "postalCode": "44120",
+            "city": "Vertou",
+            "countryCode": "FR",
+            "region": "Pays de la Loire"
+        },
+        "profiles": [
+            {
+                "network": "Duolingo",
+                "username": "MathieuGemard",
+                "url": "https://www.duolingo.com/profile/MathieuGemard"
+            },
+            {
+                "network": "Facebook",
+                "username": "mathieu.gemard",
+                "url": "https://www.facebook.com/mathieu.gemard"
+            },
+            {
+                "network": "GitHub",
+                "username": "mgemard",
+                "url": "https://github.com/mgemard"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "mathieu-gemard-0a426a115",
+                "url": "https://www.linkedin.com/in/mathieu-gemard-0a426a115"
+            },
+            {
+                "network": "Reddit",
+                "username": "MathieuGemard",
+                "url": "https://www.reddit.com/user/mathieugemard"
+            },
+            {
+                "network": "X",
+                "username": "MathieuGemard",
+                "url": "https://x.com/MathieuGemard"
+            },
+            {
+                "network": "YouTube",
+                "username": "mathieugemard",
+                "url": "https://www.youtube.com/@mathieugemard"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Company",
+            "position": "President",
+            "url": "https://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description…",
+            "highlights": [
+                "Started the company"
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "url": "https://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description…",
+            "highlights": [
+                "Awarded 'Volunteer of the Month'"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University",
+            "url": "https://institution.com/",
+            "area": "Software Development",
+            "studyType": "Bachelor",
+            "startDate": "2011-01-01",
+            "endDate": "2013-01-01",
+            "score": "4.0",
+            "courses": [
+                "DB1101 - Basic SQL"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Certificate",
+            "date": "2021-11-07",
+            "issuer": "Company",
+            "url": "https://certificate.com"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Core - Corona Model analysis of the Low Energy Beam Scan at RHIC (Relativistic Heavy Ion Collider) in Brookhaven (USA)",
+            "publisher": "arXiv",
+            "releaseDate": "2014-02-02",
+            "url": "https://arxiv.org/abs/1402.0234",
+            "summary": "Implementation of a C++ program to compare the predictions of the core-corona model with the latest experimental data from the RHIC (Relativistic Heavy Ion Collider) in Brookhaven (USA)"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Languages",
+            "level": "Advanced",
+            "keywords": [
+                "Java",
+                "Scala",
+                "Python",
+                "JavaScript",
+                "TypeScript",
+                "C/C++"
+            ]
+        },
+        {
+            "name": "Backend Development",
+            "level": "Advanced",
+            "keywords": [
+                "Spring Boot",
+                "Hibernates",
+                "Java EE (JSP)",
+                "Node.js"
+            ]
+        },
+        {
+            "name": "Web Development",
+            "level": "Advanced",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "tailwind",
+                "Bootstrap",
+                "vite",
+                "Svelte",
+                "SvelteKit",
+                "React",
+                "Angular",
+                "jQuery"
+            ]
+        },
+        {
+            "name": "Databases",
+            "level": "Intermediate",
+            "keywords": [
+                "PostgresSQL",
+                "MySQL",
+                "redis"
+            ]
+        },
+        {
+            "name": "Big Data",
+            "level": "Advanced",
+            "keywords": [
+                "Spark",
+                "Hadoop"
+            ]
+        },
+        {
+            "name": "Cloud",
+            "level": "Intermediate",
+            "keywords": [
+                "AWS (S3, EC2, Lambda, EMR, Glue, RDS, Athena)",
+                "Google Cloud Platform (GCP)",
+                "Terraform",
+                "Vault"
+            ]
+        },
+        {
+            "name": "DevOps",
+            "level": "Intermediate",
+            "keywords": [
+                "Docker",
+                "docker-compose",
+                "Kubernetes",
+                "Airflow",
+                "GitLab CI/CD",
+                "GitHub Actions",
+                "Jenkins"
+            ]
+        },
+        {
+            "name": "Data Vizualization",
+            "level": "Beginner",
+            "keywords": [
+                "Power BI"
+            ]
+        },
+        {
+            "name": "Mobile Development",
+            "level": "Beginner",
+            "keywords": [
+                "Android native"
+            ]
+        },
+        {
+            "name": "Operating Systems",
+            "level": "Intermediate",
+            "keywords": [
+                "Linux",
+                "Windows"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Proficient"
+        },
+        {
+            "language": "Spanish",
+            "fluency": "Conversational"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Hobbies",
+            "keywords": [
+                "Fingerstyle guitar",
+                "Chess"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference…"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Project",
+            "startDate": "2019-01-01",
+            "endDate": "2021-01-01",
+            "description": "Description...",
+            "highlights": [
+                "Won award at AIHacks 2016"
+            ],
+            "url": "https://project.com/"
+        }
+    ]
+}
