@@ -52,3 +52,10 @@ https://www.reddit.com/r/sveltejs/comments/1mnn4zi/svelte_markdown_and_the_magic
 
 How-To Guide: Creating a Blog in 5 Mins with SvelteKit
 https://www.codemotion.com/magazine/frontend/how-to-guide-creating-a-blog-in-5-mins-with-sveltekit/
+
+
+
+Hugo themes
+https://hugo-profile.netlify.app/
+https://toha-preview.hugo-themes.com/#home
+
