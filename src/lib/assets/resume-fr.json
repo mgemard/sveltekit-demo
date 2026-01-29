@@ -1,0 +1,473 @@
+{
+    "basics": {
+        "name": "Mathieu Gemard",
+        "label": "Senior Software Engineer",
+        "image": "",
+        "email": "mathieu.gemard@gmail.com",
+        "phone": "0630152497",
+        "url": "https://mgemard.github.io",
+        "summary": "I am a senior software engineer currently working on Big Data. I have extensive experience in backend development using Java as well as web development with JavaScript frameworks such as angular and React. Additionally, I possess solid skills in cloud computing, particularly with AWS services. I am enthusiastic about learning new technologies and continuously enhancing my skill set.",
+        "location": {
+            "address": "7 rue de la Mortallière",
+            "postalCode": "44120",
+            "city": "Vertou",
+            "countryCode": "FR",
+            "region": "Pays de la Loire"
+        },
+        "profiles": [
+            {
+                "network": "Duolingo",
+                "username": "MathieuGemard",
+                "url": "https://www.duolingo.com/profile/MathieuGemard"
+            },
+            {
+                "network": "Facebook",
+                "username": "mathieu.gemard",
+                "url": "https://www.facebook.com/mathieu.gemard"
+            },
+            {
+                "network": "GitHub",
+                "username": "mgemard",
+                "url": "https://github.com/mgemard"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "mathieu-gemard-0a426a115",
+                "url": "https://www.linkedin.com/in/mathieu-gemard-0a426a115"
+            },
+            {
+                "network": "Reddit",
+                "username": "MathieuGemard",
+                "url": "https://www.reddit.com/user/mathieugemard"
+            },
+            {
+                "network": "X",
+                "username": "MathieuGemard",
+                "url": "https://x.com/MathieuGemard"
+            },
+            {
+                "network": "YouTube",
+                "username": "mathieugemard",
+                "url": "https://www.youtube.com/@mathieugemard"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "My Money Bank",
+            "position": "Ingénieur développement sénior",
+            "url": "",
+            "startDate": "2023-01-01",
+            "endDate": null,
+            "summary": "Poursuite et évolution des développements Data autour de la plateforme Data Hub.",
+            "highlights": [
+                "Développement et maintenance d’ETLs autour de la plateforme Data Hub",
+                "Création de rapports décisionnels avec Power BI",
+                "Migration d’un système de traitement de fichiers de SAS vers des ETLs Spark et Spring",
+                "Pilotage de la recette d’un nouveau traitement SAS"
+            ]
+        },
+        {
+            "name": "ASI",
+            "position": "Analyste programmeur",
+            "url": "https://www.asi.fr",
+            "startDate": "2018-02-01",
+            "endDate": "2022-12-01",
+            "summary": "Interventions au sein des pôles Data et Digital, principalement chez le client My Money Bank.",
+            "highlights": [
+                "Développement d’ETLs Data Hub : lecture de fichiers parquet/xml/csv avec Spark, chargement Postgres et génération de fichiers csv/txt/xls",
+                "Mise en place de l’ordonnancement avec Airflow",
+                "Technologies : Spark/Scala, Spring/Java, Maven, Postgres, GitLab CI/CD, Airflow/Python, AWS, Vault, Kubernetes, Terraform, Kafka",
+                "Initiatives techniques : tests unitaires (JUnit, ScalaTest), librairies communes ETL, mise en place de Liquibase",
+                "Développement et déploiement d’une application interne de gestion de compétences (Java, Spring Boot, Angular, Docker)",
+                "Maintenance et évolutions d’une application logistique (Java EE, Swing)",
+                "Rédaction d’un cahier des charges pour un système d’intégration de fichiers",
+                "Développement d’un système d’aide à la préparation de commandes en magasin"
+            ]
+        },
+        {
+            "name": "Divers employeurs (Intérim)",
+            "position": "Ouvrier polyvalent / Manutentionnaire / Agent d’entretien",
+            "url": "",
+            "startDate": "2016-08-01",
+            "endDate": "2017-11-01",
+            "summary": "Missions d’intérim dans différents secteurs.",
+            "highlights": [
+                "Travaux de manutention et de logistique",
+                "Travaux d’entretien et de nettoyage",
+                "Polyvalence sur différents postes opérationnels",
+                "Adaptation rapide à des environnements de travail variés"
+            ]
+        },
+        {
+            "name": "Velco",
+            "position": "Stagiaire concepteur développeur",
+            "url": "https://www.velco.tech",
+            "startDate": "2016-04-01",
+            "endDate": "2016-07-01",
+            "summary": "Conception et développement d’une application mobile pour vélo connecté.",
+            "highlights": [
+                "Développement d’une application mobile Android",
+                "Implémentation du guidage GPS via Google Directions API",
+                "Mise en œuvre de la communication Bluetooth",
+                "Technologies : Android, Java, Spring MVC, MySQL, Wildfly, Google Maps"
+            ]
+        },
+        {
+            "name": "SCA Valnantais",
+            "position": "Ouvrier maraîchage",
+            "url": "",
+            "startDate": "2013-07-01",
+            "endDate": "2015-10-01",
+            "summary": "Travail en exploitation maraîchère.",
+            "highlights": [
+                "Travaux agricoles et récolte de légumes",
+                "Conditionnement et préparation des produits",
+                "Respect des normes d’hygiène et de sécurité",
+                "Travail en équipe et respect des délais"
+            ]
+        },
+        {
+            "name": "Laboratoire Subatech",
+            "position": "Stagiaire recherche – Fin d’études",
+            "url": "https://subatech.in2p3.fr",
+            "startDate": "2013-03-01",
+            "endDate": "2013-07-01",
+            "summary": "Étude de la production de muons issus de la désintégration des pions et kaons dans l’expérience ALICE (LHC).",
+            "highlights": [
+                "Analyse de données issues du spectromètre à muons d’ALICE",
+                "Implémentation d’une nouvelle géométrie du spectromètre en C++ (AliROOT)",
+                "Simulations et analyses via scripts Shell",
+                "Rédaction du rapport et présentation des résultats"
+            ]
+        },
+        {
+            "name": "Laboratoire Subatech",
+            "position": "Stagiaire recherche – Master 1",
+            "url": "https://subatech.in2p3.fr",
+            "startDate": "2012-05-01",
+            "endDate": "2012-06-01",
+            "summary": "Poursuite de travaux de recherche en physique des particules menant à une publication scientifique.",
+            "highlights": [
+                "Contribution à des travaux de recherche publiés sur arXiv",
+                "Analyse de données expérimentales en physique des hautes énergies"
+            ]
+        },
+        {
+            "name": "Laboratoire Subatech",
+            "position": "Stagiaire recherche – Bourse Janus",
+            "url": "https://subatech.in2p3.fr",
+            "startDate": "2011-06-01",
+            "endDate": "2011-06-30",
+            "summary": "Comparaison de modèles théoriques avec des données expérimentales en physique des particules.",
+            "highlights": [
+                "Implémentation d’un programme C++ pour comparer le modèle core-corona",
+                "Analyse de données issues des collaborations STAR, PHENIX et ALICE"
+            ]
+        },
+        {
+            "name": "Laboratoire Subatech",
+            "position": "Stagiaire recherche – Licence 3",
+            "url": "https://subatech.in2p3.fr",
+            "startDate": "2011-01-01",
+            "endDate": "2011-01-31",
+            "summary": "Étude des distributions en moment des particules chargées dans les jets de l’expérience ALICE.",
+            "highlights": [
+                "Mesure et analyse de distributions de particules",
+                "Prise en main d’AliROOT, C++ et environnement UNIX"
+            ]
+        },
+        {
+            "name": "Université de Nantes",
+            "position": "Tuteur universitaire – Statique du solide",
+            "url": "https://www.univ-nantes.fr",
+            "startDate": "2010-09-01",
+            "endDate": "2011-06-01",
+            "summary": "Réalisation de tutorats en statique du solide auprès d’étudiants de Licence 1.",
+            "highlights": [
+                "Encadrement pédagogique d’étudiants de première année de licence",
+                "Explication et vulgarisation de concepts de statique du solide",
+                "Aide à la résolution d’exercices et à la préparation des examens",
+                "Développement de compétences pédagogiques et de communication"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "M2i",
+            "url": "https://www.m2iformation.fr",
+            "area": "Développement logiciel Java",
+            "studyType": "Certification professionnelle",
+            "startDate": "2017-11-01",
+            "endDate": "2018-02-01",
+            "score": "",
+            "courses": [
+                "Développement d’applications web",
+                "Programmation côté client",
+                "Sécurité applicative",
+                "Java EE",
+                "Hibernate",
+                "Spring",
+                "JSF",
+                "Swing",
+                "MySQL",
+                "JavaScript",
+                "Angular",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "institution": "IMIE",
+            "url": "https://www.imie.fr",
+            "area": "Conception et développement informatique",
+            "studyType": "Titre professionnel niveau II (Bac +4)",
+            "startDate": "2015-10-01",
+            "endDate": "2016-04-01",
+            "score": "",
+            "courses": [
+                "Analyse des besoins",
+                "Gestion de projet",
+                "Maquettage et prototypage",
+                "Conception et développement d’applications n-tiers",
+                "Stratégies de tests",
+                "Déploiement applicatif",
+                "Java EE",
+                "Hibernate",
+                "Android",
+                "PostgreSQL",
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "institution": "Université de Nantes",
+            "url": "https://www.univ-nantes.fr",
+            "area": "Applications et recherche subatomiques",
+            "studyType": "Master",
+            "startDate": "2011-09-01",
+            "endDate": "2013-07-01",
+            "score": "",
+            "courses": [
+                "Modèle standard de la physique des particules",
+                "Physique nucléaire et collisions",
+                "Cosmologie et astroparticules",
+                "Théorie quantique des champs"
+            ]
+        },
+        {
+            "institution": "École des Mines de Saint-Étienne",
+            "url": "https://www.mines-stetienne.fr",
+            "area": "Sciences et ingénierie",
+            "studyType": "Cycle ingénieur (1re année – cursus non diplômant)",
+            "startDate": "2007-09-01",
+            "endDate": "2009-07-01"
+        },
+        {
+            "institution": "Classe préparatoire TSI – Saint-Nazaire",
+            "url": "https://aristide-briand.paysdelaloire.e-lyco.fr/cpge/tsi",
+            "area": "Technologies et Sciences Industrielles",
+            "studyType": "CPGE TSI",
+            "startDate": "2005-09-01",
+            "endDate": "2007-06-01",
+            "score": "",
+            "courses": [
+                "Sciences industrielles de l'ingénieur",
+                "Mathématiques",
+                "Physique",
+                "Informatique",
+                "Anglais",
+                "Français et philosophie"
+            ]
+        },
+        {
+            "institution": "Lycée La Joliverie - Nantes",
+            "url": "https://www.la-joliverie.com",
+            "area": "Sciences et Technologies de l’Industrie - Electrotechnique",
+            "studyType": "Baccalauréat STI",
+            "startDate": "2007-09-01",
+            "endDate": "2005-06-01",
+            "score": "",
+            "courses": [
+                "Électronique",
+                "Électrotechnique",
+                "Mathématiques appliquées",
+                "Physique appliquée"
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Analyse du modèle core–corona du Low Energy Beam Scan au RHIC (Relativistic Heavy Ion Collider) de Brookhaven (États-Unis)",
+            "publisher": "arXiv",
+            "releaseDate": "2014-02-02",
+            "url": "https://arxiv.org/abs/1402.0234",
+            "summary": "Implémentation d’un programme en C++ permettant de comparer les prédictions du modèle core–corona avec les dernières données expérimentales du RHIC (Relativistic Heavy Ion Collider) de Brookhaven (États-Unis)."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Langages",
+            "level": "Avancé",
+            "keywords": [
+                "Java",
+                "Scala",
+                "Python",
+                "JavaScript",
+                "TypeScript",
+                "C/C++"
+            ]
+        },
+        {
+            "name": "Développement backend",
+            "level": "Avancé",
+            "keywords": [
+                "Spring Boot",
+                "Hibernate",
+                "Java EE (JSP)",
+                "Node.js"
+            ]
+        },
+        {
+            "name": "Développement web",
+            "level": "Avancé",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Tailwind",
+                "Bootstrap",
+                "Vite",
+                "Svelte",
+                "SvelteKit",
+                "React",
+                "Angular",
+                "jQuery"
+            ]
+        },
+        {
+            "name": "Bases de données",
+            "level": "Intermédiaire",
+            "keywords": [
+                "PostgreSQL",
+                "MySQL",
+                "Redis"
+            ]
+        },
+        {
+            "name": "Big Data",
+            "level": "Avancé",
+            "keywords": [
+                "Spark",
+                "Hadoop"
+            ]
+        },
+        {
+            "name": "Cloud",
+            "level": "Intermédiaire",
+            "keywords": [
+                "AWS (S3, EC2, Lambda, EMR, Glue, RDS, Athena)",
+                "Google Cloud Platform (GCP)",
+                "Terraform",
+                "Vault"
+            ]
+        },
+        {
+            "name": "DevOps",
+            "level": "Intermédiaire",
+            "keywords": [
+                "Docker",
+                "Docker Compose",
+                "Kubernetes",
+                "Airflow",
+                "GitLab CI/CD",
+                "GitHub Actions",
+                "Jenkins"
+            ]
+        },
+        {
+            "name": "Visualisation de données",
+            "level": "Débutant",
+            "keywords": [
+                "Power BI"
+            ]
+        },
+        {
+            "name": "Développement mobile",
+            "level": "Débutant",
+            "keywords": [
+                "Android natif"
+            ]
+        },
+        {
+            "name": "Systèmes d’exploitation",
+            "level": "Intermédiaire",
+            "keywords": [
+                "Linux",
+                "Windows"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Anglais",
+            "fluency": "Courant"
+        },
+        {
+            "language": "Espagnol",
+            "fluency": "Conversationnel"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Centres d’intérêt",
+            "keywords": [
+                "Guitare fingerstyle",
+                "Échecs"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "Site perso",
+            "startDate": "2026-01-01",
+            "endDate": "",
+            "description": "Refonte de mon site avec SvelteKit.",
+            "highlights": [
+                "Technologie: HTML, CSS, Tailwind CSS, TypeScrit, Vite, SvelteKit, GitHub Pages, JSON Resume."
+            ],
+            "url": "https://mgemard.github.io"
+        },
+        {
+            "name": "Ancien site perso",
+            "startDate": "2015-01-01",
+            "endDate": "2025-12-31",
+            "description": "Site contenant mon CV et mon portfolio",
+            "highlights": [
+                "Technologie: HTML, CSS, Bootstrap, JavaScrit, jQuery, GitHub Pages."
+            ],
+            "url": "https://mgemard.github.io"
+        },
+        {
+            "name": "Ikopit",
+            "startDate": "2015-01-01",
+            "endDate": "2015-12-31",
+            "description": "Site d'aide pour un jeu en ligne",
+            "highlights": [
+                "Technologies utilisées: HTML, CSS, Bootstrap, JavaScrit, jQuery, React, Knockout.js, Java EE, Google App Engine, Objectify, Ajax, Cookies."
+            ],
+            "url": "https://github.com/mgemard/ikopit"
+        },
+        {
+            "name": "Livret de compétences numérique",
+            "startDate": "2015-10-01",
+            "endDate": "2016-04-01",
+            "description": "Livret de compétences numérique réalisé lors de la formation IMIE.",
+            "highlights": [
+                "Projet fils rouge réalisé lors de ma formation à l'IMIE. C'est une application permettant aux élèves de consulter les résultats de leurs évaluations. L'application possèdent différents rôles: enseignants, les coordinateurs pédagogiques et le directeur.",
+                "Technologies utilisées: HTML, CSS, Bootstrap, Javascript, Angular, Java EE, Hibernate, EJB, PostgreSQL, Wildfly, Web Service REST, Authentification."
+            ],
+            "url": "hhttps://github.com/TpFilRougeCens/prj-cens"
+        }
+    ]
+}

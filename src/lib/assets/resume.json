@@ -54,58 +54,247 @@
     },
     "work": [
         {
-            "name": "Company",
-            "position": "President",
-            "url": "https://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description…",
+            "name": "My Money Bank",
+            "position": "Senior Software Development Engineer",
+            "url": "",
+            "startDate": "2023-01-02",
+            "endDate": null,
+            "summary": "Continuation and enhancement of Data developments around the Data Hub platform.",
             "highlights": [
-                "Started the company"
+                "Development and maintenance of ETLs around the Data Hub platform",
+                "Creation of decision-making reports using Power BI",
+                "Migration of a file processing system from SAS to Spark and Spring ETLs",
+                "Coordination and supervision of acceptance testing for a new SAS process"
             ]
-        }
-    ],
-    "volunteer": [
+        },
         {
-            "organization": "Organization",
-            "position": "Volunteer",
-            "url": "https://organization.com/",
-            "startDate": "2012-01-01",
-            "endDate": "2013-01-01",
-            "summary": "Description…",
+            "name": "ASI",
+            "position": "Software Analyst / Developer",
+            "url": "https://www.asi.fr",
+            "startDate": "2018-02-01",
+            "endDate": "2022-12-01",
+            "summary": "Assignments within the Data and Digital departments, mainly on-site at client My Money Bank.",
             "highlights": [
-                "Awarded 'Volunteer of the Month'"
+                "Development of Data Hub ETLs: reading parquet/xml/csv files with Spark, loading data into Postgres, and generating csv/txt/xls files",
+                "Workflow orchestration using Airflow",
+                "Technologies: Spark/Scala, Spring/Java, Maven, Postgres, GitLab CI/CD, Airflow/Python, AWS, Vault, Kubernetes, Terraform, Kafka",
+                "Technical initiatives: implementation of unit tests (JUnit, ScalaTest), creation of shared ETL libraries, setup of Liquibase for Postgres database creation",
+                "Development and deployment of an internal skills management application (Java, Spring Boot, Angular, Docker)",
+                "Maintenance and feature development for a logistics application (Java EE, Swing)",
+                "Authoring of functional specifications for a file integration system",
+                "Development of an in-store order picking assistance system"
+            ]
+        },
+        {
+            "name": "Various Employers (Temporary Work)",
+            "position": "General Worker / Warehouse Operative / Maintenance Worker",
+            "url": "",
+            "startDate": "2016-08-01",
+            "endDate": "2017-11-01",
+            "summary": "Temporary assignments across multiple sectors.",
+            "highlights": [
+                "Handling and logistics tasks",
+                "Cleaning and maintenance activities",
+                "Versatility across different operational roles",
+                "Ability to quickly adapt to new working environments"
+            ]
+        },
+        {
+            "name": "Velco",
+            "position": "Software Developer Intern",
+            "url": "https://www.velco.tech",
+            "startDate": "2016-04-01",
+            "endDate": "2016-07-01",
+            "summary": "Design and development of a mobile application for a connected bicycle.",
+            "highlights": [
+                "Development of an Android mobile application",
+                "Implementation of GPS navigation using the Google Directions API",
+                "Implementation of Bluetooth communication",
+                "Technologies: Android, Java, Spring MVC, MySQL, Wildfly, Google Maps"
+            ]
+        },
+        {
+            "name": "SCA Valnantais",
+            "position": "Agricultural Worker (Market Gardening)",
+            "url": "",
+            "startDate": "2013-07-01",
+            "endDate": "2015-10-01",
+            "summary": "Work in a market gardening cooperative.",
+            "highlights": [
+                "Agricultural work and vegetable harvesting",
+                "Sorting, packaging, and preparation of produce",
+                "Compliance with hygiene and safety standards",
+                "Teamwork and meeting production deadlines"
+            ]
+        },
+        {
+            "name": "Subatech Laboratory",
+            "position": "Research Intern – Final Year Project",
+            "url": "https://subatech.in2p3.fr",
+            "startDate": "2013-03-01",
+            "endDate": "2013-07-01",
+            "summary": "Study of muon production from pion and kaon decays in the ALICE experiment at the LHC.",
+            "highlights": [
+                "Analysis of data from the ALICE muon spectrometer",
+                "Implementation of a new muon spectrometer geometry in C++ using the AliROOT framework",
+                "Simulations and result analysis using Shell scripts",
+                "Writing of the final report and presentation of results"
+            ]
+        },
+        {
+            "name": "Subatech Laboratory",
+            "position": "Research Intern – Master 1",
+            "url": "https://subatech.in2p3.fr",
+            "startDate": "2012-05-01",
+            "endDate": "2012-06-01",
+            "summary": "Continuation of particle physics research work leading to a scientific publication.",
+            "highlights": [
+                "Contribution to research work published on arXiv",
+                "Analysis of experimental data in high-energy particle physics"
+            ]
+        },
+        {
+            "name": "Subatech Laboratory",
+            "position": "Research Intern – Janus Grant",
+            "url": "https://subatech.in2p3.fr",
+            "startDate": "2011-06-01",
+            "endDate": "2011-06-30",
+            "summary": "Comparison of theoretical models with experimental data in particle physics.",
+            "highlights": [
+                "Implementation of a C++ program to compare the core–corona model",
+                "Analysis of experimental data from the STAR, PHENIX, and ALICE collaborations"
+            ]
+        },
+        {
+            "name": "Subatech Laboratory",
+            "position": "Research Intern – Bachelor’s Degree (Year 3)",
+            "url": "https://subatech.in2p3.fr",
+            "startDate": "2011-01-01",
+            "endDate": "2011-01-31",
+            "summary": "Study of momentum distributions of charged particles in jets reconstructed by the ALICE experiment.",
+            "highlights": [
+                "Measurement and analysis of particle momentum distributions",
+                "Hands-on use of AliROOT, C++, and UNIX environments"
+            ]
+        },
+        {
+            "name": "University of Nantes",
+            "position": "Undergraduate Tutor – Rigid Body Statics",
+            "url": "https://www.univ-nantes.fr",
+            "startDate": "2010-09-01",
+            "endDate": "2011-06-01",
+            "summary": "Provided tutoring in rigid body statics to first-year undergraduate students.",
+            "highlights": [
+                "Academic tutoring for first-year undergraduate students",
+                "Explanation and simplification of rigid body statics concepts",
+                "Assistance with problem-solving and exam preparation",
+                "Development of teaching and communication skills"
             ]
         }
     ],
     "education": [
         {
-            "institution": "University",
-            "url": "https://institution.com/",
-            "area": "Software Development",
-            "studyType": "Bachelor",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "score": "4.0",
+            "institution": "M2i",
+            "url": "https://www.m2iformation.fr",
+            "area": "Java Software Development",
+            "studyType": "Professional Certification",
+            "startDate": "2017-11-01",
+            "endDate": "2018-02-01",
+            "score": "",
             "courses": [
-                "DB1101 - Basic SQL"
+                "Web application development",
+                "Client-side programming",
+                "Application security",
+                "Java EE",
+                "Hibernate",
+                "Spring",
+                "JSF",
+                "Swing",
+                "MySQL",
+                "JavaScript",
+                "Angular",
+                "HTML",
+                "CSS"
             ]
-        }
-    ],
-    "awards": [
+        },
         {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
-    ],
-    "certificates": [
+            "institution": "IMIE",
+            "url": "https://www.imie.fr",
+            "area": "Computer Software Design and Development",
+            "studyType": "Professional Title – Level II (Bachelor +4)",
+            "startDate": "2015-10-01",
+            "endDate": "2016-04-01",
+            "score": "",
+            "courses": [
+                "Requirements analysis",
+                "Project management",
+                "Mockups and prototyping",
+                "N-tier application design and development",
+                "Testing strategies",
+                "Application deployment",
+                "Java EE",
+                "Hibernate",
+                "Android",
+                "PostgreSQL",
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ]
+        },
         {
-            "name": "Certificate",
-            "date": "2021-11-07",
-            "issuer": "Company",
-            "url": "https://certificate.com"
+            "institution": "University of Nantes",
+            "url": "https://www.univ-nantes.fr",
+            "area": "Subatomic Applications and Research",
+            "studyType": "Master’s Degree",
+            "startDate": "2011-09-01",
+            "endDate": "2013-07-01",
+            "score": "",
+            "courses": [
+                "Standard Model of particle physics",
+                "Nuclear physics and collisions",
+                "Cosmology and astroparticles",
+                "Quantum field theory"
+            ]
+        },
+        {
+            "institution": "École des Mines de Saint-Étienne",
+            "url": "https://www.mines-stetienne.fr",
+            "area": "Science and Engineering",
+            "studyType": "Engineering Program (1st year – non-degree curriculum)",
+            "startDate": "2007-09-01",
+            "endDate": "2009-07-01"
+        },
+        {
+            "institution": "Preparatory Class TSI – Saint-Nazaire",
+            "url": "https://aristide-briand.paysdelaloire.e-lyco.fr/cpge/tsi",
+            "area": "Technologies and Industrial Sciences",
+            "studyType": "CPGE TSI",
+            "startDate": "2005-09-01",
+            "endDate": "2007-06-01",
+            "score": "",
+            "courses": [
+                "Engineering Sciences",
+                "Mathematics",
+                "Physics",
+                "Computer Science",
+                "English",
+                "French and Philosophy"
+            ]
+        },
+        {
+            "institution": "Lycée La Joliverie - Nantes",
+            "url": "https://www.la-joliverie.com",
+            "area": "Science and Technology of Industry - Electrical Engineering",
+            "studyType": "STI Baccalaureate",
+            "startDate": "2005-09-01",
+            "endDate": "2007-06-01",
+            "score": "",
+            "courses": [
+                "Electronics",
+                "Electrical Engineering",
+                "Applied Mathematics",
+                "Applied Physics"
+            ]
         }
     ],
     "publications": [
@@ -238,22 +427,51 @@
             ]
         }
     ],
-    "references": [
-        {
-            "name": "Jane Doe",
-            "reference": "Reference…"
-        }
-    ],
     "projects": [
         {
-            "name": "Project",
-            "startDate": "2019-01-01",
-            "endDate": "2021-01-01",
-            "description": "Description...",
+            "name": "Personal Website",
+            "startDate": "2026-01-01",
+            "endDate": "",
+            "description": "Redesigned my personal website using modern web technologies to showcase my portfolio and resume.",
             "highlights": [
-                "Won award at AIHacks 2016"
+                "Technologies: SvelteKit, TypeScript, Tailwind CSS, HTML, CSS, Vite, GitHub Pages, JSON Resume",
+                "Improved performance, responsiveness, and maintainability"
             ],
-            "url": "https://project.com/"
+            "url": "https://mgemard.github.io"
+        },
+        {
+            "name": "Old Personal Website",
+            "startDate": "2015-01-01",
+            "endDate": "2025-12-31",
+            "description": "Original personal website presenting my CV and portfolio projects.",
+            "highlights": [
+                "Technologies: HTML, CSS, Bootstrap, JavaScript, jQuery, GitHub Pages",
+                "Served as the foundation for portfolio development over 10 years"
+            ],
+            "url": "https://mgemard.github.io"
+        },
+        {
+            "name": "Ikopit",
+            "startDate": "2015-01-01",
+            "endDate": "2015-12-31",
+            "description": "Created a web support platform for an online game to assist players with game strategies.",
+            "highlights": [
+                "Technologies: HTML, CSS, Bootstrap, JavaScript, jQuery, React, Knockout.js, Java EE, Google App Engine, Objectify, Ajax, Cookies",
+                "Built interactive features to enhance user engagement and support"
+            ],
+            "url": "https://github.com/mgemard/ikopit"
+        },
+        {
+            "name": "Digital Skills Portfolio",
+            "startDate": "2015-10-01",
+            "endDate": "2016-04-01",
+            "description": "Developed a digital skills portfolio application for students to track assessment results.",
+            "highlights": [
+                "Capstone project with multiple user roles: students, teachers, academic coordinators, director",
+                "Technologies: HTML, CSS, Bootstrap, JavaScript, Angular, Java EE, Hibernate, EJB, PostgreSQL, Wildfly, REST Web Services, Authentication",
+                "Implemented secure authentication, data management, and role-based access"
+            ],
+            "url": "https://github.com/TpFilRougeCens/prj-cens"
         }
     ]
 }
