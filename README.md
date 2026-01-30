@@ -59,3 +59,10 @@ Hugo themes
 https://hugo-profile.netlify.app/
 https://toha-preview.hugo-themes.com/#home
 
+exemples of CVs :
+https://www.reddit.com/r/Frontend/comments/1at0laf/show_me_your_personal_websites/
+
+TODO :
+- Home Page with CV
+- Portfolio page
+- Blog Page with "coming soon"
