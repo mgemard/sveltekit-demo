@@ -3,7 +3,7 @@
     © {new Date().getFullYear()}
     <a
       href="https://github.com/mgemard/mgemard.github.io"
-      class="hover:underline">View source</a
+      class="hover:underline">View on GitHub</a
     >
   </div>
 </footer>

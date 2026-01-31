@@ -6,6 +6,7 @@
   import githubWhite from "$lib/assets/app-icons/GitHub_Invertocat_White_Clearspace.svg";
   import duolingo from "$lib/assets/app-icons/duolingo_appicon_rounded.svg";
   import jsonresume from "$lib/assets/jsonresume/resume.json"
+  import Icon from '@iconify/svelte'
 
   
 </script>
@@ -26,6 +27,15 @@
   class="h-8 w-8 hidden dark:block"
 />
 <img src={duolingo} alt="Duolingo" class="h-8 w-8" />
+
+
+<div class="[&>svg]:h-5 [&>svg]:w-5 text-gray-700">
+  <Icon icon="logos:typescript-icon" />
+  <Icon icon="logos:html-5" />
+  <Icon icon="logos:css-3" />
+  <Icon icon="logos:java" />
+  <Icon icon="logos:spring-icon" />
+</div>
 
 <img alt="Portrait of Mathieu Gemard" src={avatar} />
 
