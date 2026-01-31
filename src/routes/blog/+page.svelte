@@ -2,9 +2,9 @@
   import { allPosts } from '$lib/posts';
 </script>
 
-<h1 class="text-3xl font-bold mb-8">Blog</h1>
+<h1 class="text-3xl font-bold mb-8">Coming soon</h1>
 
-<ul class="space-y-4">
+<ul hidden class="space-y-4">
   {#each allPosts as post}
     <li>
       <a
