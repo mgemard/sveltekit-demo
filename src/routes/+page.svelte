@@ -1,7 +1,8 @@
 <script>
   import { dev } from "$app/environment";
-  import avatar from "$lib/assets/avatar.png";
+  import avatar from "$lib/assets/avatars/avatar.png";
   import linkedin from "$lib/assets/app-icons/LI-In-Bug.png";
+  import github from "$lib/assets/app-icons/GitHub_Invertocat_Black_Clearspace_Background.svg";
   import githubBlack from "$lib/assets/app-icons/GitHub_Invertocat_Black_Clearspace.svg";
   import githubWhite from "$lib/assets/app-icons/GitHub_Invertocat_White_Clearspace.svg";
   import duolingo from "$lib/assets/app-icons/duolingo_appicon_rounded.svg";
@@ -14,6 +15,8 @@
 <h1 class="text-center text-4xl font-bold">{jsonresume.basics.name}</h1>
 <h2 class="text-center text-2xl font-medium">Senior Software Engineer</h2>
 
+
+<img src={github} alt="GitHub" class="h-8 w-8" />
 <img src={linkedin} alt="LinkedIn" class="h-8 w-8" />
 <img
   src={githubBlack}

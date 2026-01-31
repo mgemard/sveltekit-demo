@@ -67,3 +67,7 @@ TODO :
 - Home Page with CV
 - Portfolio page
 - Blog Page with "coming soon"
+
+
+dark mode with Firefox dark mode extension
+https://chatgpt.com/c/697d3522-5a8c-832c-84d6-6a9c0a885b72
