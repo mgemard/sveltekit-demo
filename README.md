@@ -71,3 +71,13 @@ TODO :
 
 dark mode with Firefox dark mode extension
 https://chatgpt.com/c/697d3522-5a8c-832c-84d6-6a9c0a885b72
+
+how to create a web app that read the tabs
+https://chatgpt.com/c/697f8bdb-bab8-8329-99bb-e0f668dfe923
+
+alpha tab integration with SvelteKit
+https://chatgpt.com/c/697fb364-026c-832e-b416-6a49883d7cce
+
+
+sveltkit + alphatab
+https://github.com/tablatures/tablatures

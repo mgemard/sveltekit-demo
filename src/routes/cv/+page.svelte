@@ -1,8 +1,29 @@
-<h1 class="text-3xl font-bold mb-8">Curriculum Vitae</h1>
+<script lang="ts">
+  import type { AlphaTabApi } from '@coderline/alphatab';
+  import AlphaTabMusicXML from '$lib/AlphaTabMusicXML.svelte';
 
-<section class="mb-8">
-  <h2 class="text-xl font-semibold mb-2">Experience</h2>
-  <p class="text-gray-700">
-    My projects
-  </p>
-</section>
+  let api: AlphaTabApi | null = null;
+
+  function play() {
+    console.log("api")
+    console.log(api)
+
+    // Play all tracks from the beginning
+    api?.playPause();
+
+  }
+
+  function pause() {
+    api?.pause();
+  }
+</script>
+
+<button on:click={play} disabled={!api}>
+  ▶ Play
+</button>
+
+<button on:click={pause} disabled={!api}>
+  ⏸ Pause
+</button>
+
+<AlphaTabMusicXML on:ready={(e) => (api = e.detail)} />
