@@ -1,1 +1,26 @@
 @import "tailwindcss";
+
+/* Remove :global() since this is in app.css */
+.at-cursor-bar {
+  background: rgba(255, 242, 0, 0.4) !important;
+  width: 3px !important;
+}
+
+.at-cursor-beat {
+  background: rgba(64, 64, 255, 0.75) !important;
+}
+
+/* Also try this more specific selector */
+.alphatab .at-cursor-bar {
+  background: rgba(255, 242, 0, 0.4) !important;
+}
+
+.alphatab {
+  width: 100%;
+  min-height: 500px;
+}
+
+.alphatab :global(svg) {
+  width: 100% !important;
+  height: auto !important;
+}

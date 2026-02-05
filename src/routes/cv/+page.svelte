@@ -4,12 +4,13 @@
 
   let api: AlphaTabApi | null = null;
 
+  
   function play() {
     console.log("api")
     console.log(api)
+  if (!api) return;
 
-    // Play all tracks from the beginning
-    api?.playPause();
+  api.player?.play()
 
   }
 
